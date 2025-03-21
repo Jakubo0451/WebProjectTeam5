@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import logo from "../../public/logo/logo.png";
+import logo from "../../public/logo/logo.svg";
 import Image from 'next/image';
 
 

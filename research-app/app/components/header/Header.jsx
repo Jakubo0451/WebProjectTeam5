@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { FaPlus, FaBars } from "react-icons/fa";
-import logo from "../../../public/logo/logo.png";
+import logo from "../../../public/logo/logo.svg";
 import { useRouter } from "next/navigation";
 import LogoutButton from '../logout/Logout.jsx';
 

@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
-import logo from "../../public/logo/logo.png";
+import logo from "../../public/logo/logo.svg";
 
 export default function RegisterPage() {
   const [name, setName] = useState("");
